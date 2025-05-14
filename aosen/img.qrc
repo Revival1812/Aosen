@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/bkg">
+        <file>img/aosenMap.jpg</file>
+        <file>img/bkg.jpg</file>
+        <file>img/ChinaParty1.jpg</file>
+        <file>img/ChinaParty2.jpg</file>
+        <file>img/Native1.jpg</file>
+        <file>img/Native2.jpg</file>
+        <file>img/nest1.jpg</file>
+        <file>img/nest2.jpg</file>
+        <file>img/OlyCen1.jpg</file>
+        <file>img/OlyCen2.jpg</file>
+        <file>img/OlyPark1.jpg</file>
+        <file>img/OlyPark2.jpg</file>
+        <file>img/OlyPark3.jpg</file>
+        <file>img/Science1.jpg</file>
+        <file>img/Science2.jpg</file>
+        <file>img/search.png</file>
+        <file>img/transportation.png</file>
+        <file>img/Water1.jpg</file>
+        <file>img/Water2.jpg</file>
+    </qresource>
+</RCC>
