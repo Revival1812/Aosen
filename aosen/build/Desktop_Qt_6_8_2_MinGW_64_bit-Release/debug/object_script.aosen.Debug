@@ -1,0 +1,13 @@
+debug/dbmanager.o
+debug/imagewindow.o
+debug/main.o
+debug/mainwindow.o
+debug/shortestpath.o
+debug/spot.o
+debug/spotdetaildialog.o
+debug/qrc_img.o
+debug/moc_imagewindow.o
+debug/moc_mainwindow.o
+debug/moc_shortestpath.o
+debug/moc_spot.o
+debug/moc_spotdetaildialog.o

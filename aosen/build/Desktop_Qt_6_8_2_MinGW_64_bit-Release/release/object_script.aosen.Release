@@ -1,0 +1,13 @@
+release/dbmanager.o
+release/imagewindow.o
+release/main.o
+release/mainwindow.o
+release/shortestpath.o
+release/spot.o
+release/spotdetaildialog.o
+release/qrc_img.o
+release/moc_imagewindow.o
+release/moc_mainwindow.o
+release/moc_shortestpath.o
+release/moc_spot.o
+release/moc_spotdetaildialog.o
